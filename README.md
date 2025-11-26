@@ -14,7 +14,7 @@
 
 Email: <a href="mailto:qkrwlgns156@naver.com">qkrwlgns156@naver.com</a>
 
-Curriculum Vitae: <a href="Jihun Park_CV.docx">docs 다운로드</a>
+Curriculum Vitae: <a href="https://github.com/jhun156/jhun156/raw/main/Jihun%20Park_CV.docx" download>docs 다운로드</a>
 
 ## 🛠️ Skills
 
