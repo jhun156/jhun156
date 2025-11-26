@@ -1,27 +1,14 @@
 ## 안녕하세요 박지훈입니다
 
-<!-- jhun156/jhun156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 기계공학을 전공하고 소프트웨어 역량 또한 갖춘 융합 엔지니어가 되기를 희망합니다!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:025ef2,100:024fe8&height=120&section=header&text=Welcome!%20Int-Type's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:025ef2,100:024fe8&height=120&section=header&text=Welcome!%20jhun156's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=40&fontAlignY=35" />
 </div>
 
 ## 🧑‍💻 About Me
 
-  <a href="mailto:inttype96@gmail.com">
-    <img src="https://img.shields.io/badge/inttype96@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:qkrwlgns156@naver.com"></a>
 
 ## 🛠️ Skills
 
@@ -82,14 +69,3 @@ Here are some ideas to get you started:
     </tr>
   </table>
 </div>
-
-## 📊 GitHub Stats
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Int-Type&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Int-Type&show_icons=true&theme=materialpalenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&hide=css,html,javascript" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Int-Type&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%" />
-</p> -->
-
