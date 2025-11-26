@@ -3,12 +3,16 @@
 ### 기계공학을 전공하고 소프트웨어 역량 또한 갖춘 융합 엔지니어가 되기를 희망합니다!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:025ef2,100:024fe8&height=120&section=header&text=Welcome!%20jhun156's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+  <a href="https://github.com/jhun156">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:025ef2,100:024fe8&height=120&section=header&text=Welcome!%20jhun156's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+  </a>
 </div>
 
 ## 🧑‍💻 About Me
 
-<a href="mailto:qkrwlgns156@naver.com"></a>
+Email: <a href="mailto:qkrwlgns156@naver.com">qkrwlgns156@naver.com</a>
+
+📄 CV: <a href="Portfolio/[SSAFY] IT포트폴리오_광주_1316219_박지훈.pdf">포트폴리오 다운로드 (PDF)</a>
 
 ## 🛠️ Skills
 
