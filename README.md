@@ -21,8 +21,8 @@ Curriculum Vitae: <a href="https://github.com/jhun156/jhun156/raw/main/Jihun%20P
 <div align="center">
   <table>
     <tr>
-      <th align="center" style="width: 20%">Category</th>
-      <th align="center" style="width: 80%">Tech Stack</th>
+      <th align="center" style="width: 25%">Category</th>
+      <th align="center" style="width: 75%">Tech Stack</th>
     </tr>
     <tr>
       <td><strong>Front-End</strong></td>
@@ -35,6 +35,7 @@ Curriculum Vitae: <a href="https://github.com/jhun156/jhun156/raw/main/Jihun%20P
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
         <img src="https://img.shields.io/badge/Zustand-443F37?style=flat-square&logo=Zustand&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
+        <br/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
